@@ -1,16 +1,32 @@
-### Hi there 👋
+# [Dennis Muensterer](https://muensterer.xyz)
 
-<!--
-**dnnsmnstrr/dnnsmnstrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, i'm Dennis!
 
-Here are some ideas to get you started:
+```js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const dennis = {
+  age: 23,
+  code: [JavaScript, 'Java', 'Swift', 'AppleScript', 'C', 'Python'],
+  ide: [Atom, 'Xcode', 'VScode', 'Eclipse'],
+  frameworks: ['React', 'React Native', 'material-ui'],
+  tools: ['Storybook', 'Jest']
+}
+```
+
+<details open>
+	<summary>Stats</summary>
+		<img align="center" src="https://github-readme-stats-seven-self.vercel.app/api?username=dnnsmnstrr" />
+		<img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnnsmnstrr&layout=compact" />
+</details>
+
+<details>
+<summary>CLI</summary>
+	<h2><a href="https://github.com/dnnsmnstrr/dnnsmnstrr-cli">CLI</a></h2> <img src="https://travis-ci.org/dnnsmnstrr/dnnsmnstrr.svg?branch=master" alt="Build Status" /> <img src="https://repl.it/badge/github/dnnsmnstrr/dnnsmnstrr" alt="Run on Repl.it" />
+
+	My info is also available as a cli tool. Just install Node.js, then:
+
+	```
+	$ npx dnnsmnstrr
+	```
+
+</details>
