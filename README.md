@@ -9,7 +9,7 @@ const dennis = {
   code: [JavaScript, 'Java', 'Swift', 'AppleScript', 'C', 'Python'],
   ide: [Atom, 'Xcode', 'VScode', 'Eclipse'],
   frameworks: ['React', 'React Native', 'material-ui'],
-  tools: ['Storybook', 'Jest']
+  tools: ['Storybook', 'Jest', 'BetterTouchTool', 'Alfred']
 }
 ```
 
@@ -20,6 +20,7 @@ const dennis = {
 </details>
 
 <details>
+
 <summary>CLI</summary>
 	<h2><a href="https://github.com/dnnsmnstrr/dnnsmnstrr-cli">CLI</a></h2> <img src="https://travis-ci.org/dnnsmnstrr/dnnsmnstrr.svg?branch=master" alt="Build Status" /> <img src="https://repl.it/badge/github/dnnsmnstrr/dnnsmnstrr" alt="Run on Repl.it" />
 
@@ -30,3 +31,4 @@ const dennis = {
 	```
 
 </details>
+
