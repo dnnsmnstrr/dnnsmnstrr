@@ -5,9 +5,9 @@ Hi, i'm Dennis!
 ```js
 
 const dennis = {
-  age: 23,
+  age: 24,
   code: [JavaScript, 'Java', 'Swift', 'AppleScript', 'C', 'Python'],
-  ide: [Atom, 'Xcode', 'VScode', 'Eclipse'],
+  ide: [Atom, 'Xcode', 'VScode', 'Eclipse', 'IntelliJ'],
   frameworks: ['React', 'React Native', 'material-ui'],
   tools: ['Storybook', 'Jest', 'BetterTouchTool', 'Alfred']
 }
