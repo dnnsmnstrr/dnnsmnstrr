@@ -13,10 +13,16 @@ const dennis = {
 }
 ```
 
-<details open>
-	<summary>Stats</summary>
+<details>
+	<summary>Stats</summary>	
 		<img align="center" src="https://github-readme-stats-seven-self.vercel.app/api?username=dnnsmnstrr" />
+		<br/>	
+		<br/>
 		<img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnnsmnstrr&layout=compact" />
+		<br/>
+		<br/>	
+		<img align="center" src="https://komarev.com/ghpvc/?username=dnnsmnstrr" />
+
 </details>
 
 <details>
