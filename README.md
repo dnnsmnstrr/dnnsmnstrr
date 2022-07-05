@@ -28,13 +28,15 @@ const dennis = {
 <details>
 
 <summary>CLI</summary>
-	<h2><a href="https://github.com/dnnsmnstrr/dnnsmnstrr-cli">CLI</a></h2> <img src="https://travis-ci.org/dnnsmnstrr/dnnsmnstrr.svg?branch=master" alt="Build Status" /> <img src="https://repl.it/badge/github/dnnsmnstrr/dnnsmnstrr" alt="Run on Repl.it" />
+	<h2><a href="https://github.com/dnnsmnstrr/dnnsmnstrr-cli">CLI</a></h2> 
+	<img src="https://travis-ci.org/dnnsmnstrr/dnnsmnstrr.svg?branch=master" alt="Build Status" /> 
+	<a href="https://replit.com/@dnnsmnstrr/dnnsmnstrr?v=1">
+		<img src="https://repl.it/badge/github/dnnsmnstrr/dnnsmnstrr" alt="Run on Repl.it" />
+	</a>
 
-	My info is also available as a cli tool. Just install Node.js, then:
+	My info is also available as a cli tool. Just install Node.js, then run:
 
-	```
-	$ npx dnnsmnstrr
-	```
+	npx dnnsmnstrr
 
 </details>
 
