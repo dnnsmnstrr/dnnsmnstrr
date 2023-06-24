@@ -1,15 +1,16 @@
 # [Dennis Muensterer](https://dnnsmnstrr.github.io)
 
-Hi, i'm Dennis!
+Hi, I'm Dennis!
 
 ```js
 
 const dennis = {
-  age: 25,
-  code: [JavaScript, 'Java', 'Swift', 'AppleScript', 'C', 'Python'],
-  ide: [Atom, 'Xcode', 'VScode', 'IntelliJ'],
-  frameworks: ['React', 'React Native', 'nextjs', 'Expo', 'ant-design', 'material-ui'],
-  tools: ['Storybook', 'Jest', 'BetterTouchTool', 'Alfred', 'Raycast']
+  age: 26,
+  code: ['JavaScript', 'Java', 'Swift', 'AppleScript'],
+  ide: ['VScode', 'Xcode'],
+  frameworks: ['React', 'React Native', 'Svelte'],
+  testing: ['jest', 'playwright'],
+  tools: ['Raycast', 'BetterTouchTool', 'Alfred', 'Shortcuts.app']
 }
 ```
 
