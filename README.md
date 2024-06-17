@@ -4,12 +4,12 @@ Hi, I'm Dennis!
 
 ```js
 const dennis = {
-  age: 26,
-  code: ['TypeScript', 'Swift', 'AppleScript'],
+  age: 27,
+  code: ['TypeScript', 'Swift'],
   ide: ['VScode', 'Xcode'],
   frameworks: ['Svelte', 'React Native', 'SwiftUI'],
   testing: ['vitest', 'playwright'],
-  tools: ['Raycast', 'BetterTouchTool', 'Alfred', 'Shortcuts.app']
+  tools: ['Raycast', 'BetterTouchTool', 'Shortcuts.app']
 }
 ```
 
