@@ -1,11 +1,11 @@
-# [Dennis Muensterer](https://dnnsmnstrr.github.io)
+# [Dennis Muensterer](https://muensterer.tech
 
 Hi, I'm Dennis!
 
 ```js
 const dennis = {
-  age: 27,
-  code: ['TypeScript', 'Swift'],
+  age: 28,
+  code: ['TypeScript', 'Swift', 'PHP'],
   ide: ['VScode', 'Xcode'],
   frameworks: ['Svelte', 'React Native', 'SwiftUI'],
   testing: ['vitest', 'playwright'],
